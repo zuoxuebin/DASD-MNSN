@@ -3,7 +3,7 @@ This is a random noise suppression algorithm for seismic signals based on depth 
 
 本算法主要包含两部分，分别是python神经网络部分和matlab绘图部分。其中，python版本采用python3.11，matlab版本采用R2024a。<br><br>
 深度学习神经网络采用了（Convolutional Architecture for Fast Feature Embedding，Caffe）架构编写。<br><br>
-如果您想学习修改本代码，建议参看https://caffe.berkeleyvision.org/。<br><br>
+如果您想学习修改本代码，建议参看https://caffe.berkeleyvision.org/<br><br>
 （温馨提示：请下载后自行修改，不要上传在本GitHub中！！！）<br><br>
 
 【升读学习神经网络必要环境如下，请根据自行需求配置：】<br>
