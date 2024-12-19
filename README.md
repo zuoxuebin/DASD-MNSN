@@ -25,4 +25,4 @@ pyyaml>=3.10<br>
 Pillow>=2.3.0<br>
 six>=1.1.0<br>
 
-<b style="color:red">【代码进攻个人学习和参考，严禁以任何形式商用！】</b>
+<font style="color:red"><b>【代码仅供个人学习和参考或者交流，严禁以任何形式商用！】</b></font>
